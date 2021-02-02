@@ -4,6 +4,8 @@
 	overflow-x: hidden;
 	flex-wrap: wrap;
 }
+
+/*FOR RESPONSIVE IMAGES IN CARDS*/
 .responsive{
   width: 100%;
   max-width: 400px;
@@ -211,6 +213,8 @@ header {
   cursor: pointer;
   }
 }
+
+/*RESPONSIVE CARD IMAGES*/
 @media screen and (max-width: 992px) {
 .responsive{
   width: 100%;
