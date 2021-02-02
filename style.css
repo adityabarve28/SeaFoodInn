@@ -206,3 +206,9 @@ header {
   cursor: pointer;
   }
 }
+@media screen and (max-width: 992px) {
+  img {
+   height: 100% auto;
+  width: 100% auto;
+  }
+}
