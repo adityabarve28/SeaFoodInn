@@ -4,6 +4,11 @@
 	overflow-x: hidden;
 	flex-wrap: wrap;
 }
+.responsive{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 /*NAV BAR*/
 nav {
 	display: flex;
