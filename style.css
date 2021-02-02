@@ -216,7 +216,7 @@ header {
 
 /*RESPONSIVE CARD IMAGES*/
 @media screen and (max-width: 992px) {
-.responsive{
+.responsive, .cardtxt, .cardtxt1{
   width: 100%;
   max-width: 400px;
   height: auto;
