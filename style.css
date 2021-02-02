@@ -8,7 +8,7 @@
 /*FOR RESPONSIVE IMAGES IN CARDS*/
 img .responsive{
   width: 100%;
-  max-width: 400px;
+  max-width: 205px;
   height: auto;
 }
 /*NAV BAR*/
@@ -218,7 +218,7 @@ header {
 @media screen and (max-width: 992px) {
 .responsive, .cardtxt, .cardtxt1{
   width: 100% !important;
-  max-width: 400px !important;
+  max-width: 205px !important;
   height: auto !important;
 }
 }
